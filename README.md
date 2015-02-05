@@ -17,7 +17,3 @@ collection.addFilter("nameOfFilter", function (model) {
 });
 ```
 
-## Todos
-* Add name to trigger arguments
-* Add specs
-* Remove initialize usage from collection
